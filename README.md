@@ -26,6 +26,9 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 F
 
 | Skill                                         
 |-----------------------------------------------
+| Penetration Tset
+| Red Team
+| BASH
 | SIEM Implementation and Log Analysis          
 | Network Traffic Monitoring and Attack Detection 
 | Security Automation with Shuffle SOAR         
