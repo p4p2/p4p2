@@ -53,9 +53,13 @@ Cryptography,IDS,IPS,Networking questions.<br><br>⚡ **Fun fact:**  <br> 🍖 F
 
 </div>
 
+![Subhajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4p2&show_icons=true&theme=radical)
+
 <div>
   
 </div>
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=p4p2)](https://github.com/p4p2/github-readme-stats)
 
 <div>
     
