@@ -31,11 +31,8 @@ Hi there! I'm **P4P2 -aka Subhajit Barman**, a cybersecurity student passionate 
 
 ## ✍️ Latest Blog Posts
 
-📖 [Bug Bounty Recon Tips](https://yourblog.com/bugbounty-recon)  
-📖 [TryHackMe: AttackBox Walkthrough](https://yourblog.com/tryhackme-attackbox)  
-📖 [Beginner’s Guide to Red Teaming](https://yourblog.com/red-team-guide)  
 
-*(Replace with your real blog URLs if available)*
+
 
 ---
 
