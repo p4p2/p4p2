@@ -31,7 +31,8 @@ Hi there! I'm **P4P2 -aka Subhajit Barman**, a cybersecurity student passionate 
 
 ## ✍️ Latest Blog Posts
 
-
+- [Installing OWASP crAPI on Linux for API Security Testing](https://p4p2.github.io/posts/crapi-install/) - *Jun 2025*
+- [TryHackMe - Simple CTF Walkthrough](https://p4p2.github.io/posts/tryhackme-simple-ctf/) - *Jun 2025*
 
 
 ---
@@ -39,9 +40,12 @@ Hi there! I'm **P4P2 -aka Subhajit Barman**, a cybersecurity student passionate 
 ## 🎮 Platforms I'm Active On
 
 - 🧠 [TryHackMe](https://tryhackme.com/p/P4P2)
-- 🔎 [Bugcrowd / HackerOne / etc.](#) *(optional)*
+- 🔎 [Bugcrowd]*
 
 ---
+
+
+
 
 ## 📫 Let’s Connect
 
