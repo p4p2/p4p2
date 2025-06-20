@@ -9,13 +9,13 @@ Hi there! I'm **P4P2 -aka Subhajit Barman**, a cybersecurity student passionate 
 - 🛡️ Penetration Testing (Web, Network, AD)
 - 💻 Red Team TTPs (Initial Access, Privilege Escalation, Lateral Movement)
 - 🕷️ Bug Bounty Hunting (OWASP Top 10, recon, exploitation)
-- 🎯 CTF Writeups (HackTheBox, TryHackMe, PicoCTF)
+- 🎯 CTF Writeups ( TryHackMe, Cr-API)
 
 ---
 
 ## 🧰 Skills & Tools
 
-- 🔧 Tools: Burp Suite, Nmap, Wireshark, Metasploit, BloodHound, Gobuster
+- 🔧 Tools: Burp Suite, Nmap, Wireshark, Metasploit, Gobuster
 - 👨‍💻 Languages: Python, Bash, HTML/JS basics
 - 📚 Methodologies: MITRE ATT&CK, OSINT, Post-Exploitation
 
