@@ -40,7 +40,6 @@ Hi there! I'm **P4P2 -aka Subhajit Barman**, a cybersecurity student passionate 
 ## 🎮 Platforms I'm Active On
 
 - 🧠 [TryHackMe](https://tryhackme.com/p/P4P2)
-- 🔎 [Com Olho](https://cyber.comolho.com/researcher/profile/Subhajit09/)
 
 ---
 
